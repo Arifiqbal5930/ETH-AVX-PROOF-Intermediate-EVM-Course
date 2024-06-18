@@ -19,7 +19,7 @@ assert(): The assert() function is used to check for conditions that should neve
 revert(): The revert() function is used when you want to explicitly revert the transaction under certain conditions. It allows you to provide a custom error message that will be returned to the sender of the transaction. It is often used to give more detailed information about the reason for the failure.
 
 Authors
-Name-Sritam Biswal Contact info-sritambiswal03@gmail.com
+Name-Arif Iqbal Contact info-arifiqbaluru786@gmail.com
 
 License
 MIT License
